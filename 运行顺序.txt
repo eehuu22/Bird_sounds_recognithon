@@ -1,0 +1,24 @@
+先下载数据集，地址：https://hf-mirror.com/datasets/sakei/Bird_audio_in_China/tree/main  ，下载解压至当前文件夹，目录形式如
+D:bird_data
+├─Abroscopus
+├─Acridotheres
+├─Acrocephalus
+├─Actinodura
+├─Aegithalos
+├─Aerodramus
+├─Agropsar
+├─Aix
+├─Alcippe
+├─Alectoris 
+…（鸟名文件夹，每个文件夹中为鸟叫音频，如Actinodura.15664264_1.wav、Actinodura.29641622_1.wav）
+
+birds_names.json记录了鸟类的名字，这作为分类的列表，因为我们按照鸟类的名称，即鸟类数据文件夹的文件名来作为标签，数据集给出的详细名字分类顺序是乱的会导致映射错误。birds_detail.json记录了鸟类的更详细信息，靠分类得到的学名再这个文件中查找。
+数据集下载的网站有给一个birds_list.json的文件，我们没有使用。
+数据预处理阶段：
+按顺序运行   移动音频文件.py  ->  音频切割.py  ->  音频转增强频谱.py
+
+预处理完毕后会有一个processed_bird_data的目录，此时运行模型训练.py，待跑完模型可以得到一个best_model.pth文件。epoch不用很大，低于30轮就可以，我们用的是26轮后得到的模型（26_best_model.pth）。
+
+运行阶段：
+确保gui_main.py、inference.py、birds_detail.json、26_best_model.pth、class_names.json在同一个文件夹。
+运行gui_main.py

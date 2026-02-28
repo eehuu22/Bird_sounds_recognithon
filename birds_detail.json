@@ -1,0 +1,2007 @@
+{
+    "Chloropsis": {
+        "sp": "蓝喉叶鹎",
+        "ssp": "",
+        "en": "灰冠叶鹎"
+    },
+    "Charadrius": {
+        "sp": "蒙古沙鸻",
+        "ssp": "",
+        "en": "铁嘴沙鸻"
+    },
+    "Delichon": {
+        "sp": "烟腹毛脚燕",
+        "ssp": "克什米尔亚种?",
+        "en": "亚洲家燕"
+    },
+    "Lanius": {
+        "sp": "楔尾伯劳",
+        "ssp": "",
+        "en": "中华灰伯劳"
+    },
+    "Dendrocygna": {
+        "sp": "栗树鸭",
+        "ssp": "",
+        "en": "小树鸭"
+    },
+    "Anser": {
+        "sp": "白额雁",
+        "ssp": "东方亚种",
+        "en": "大白额雁"
+    },
+    "Cygnus": {
+        "sp": "大天鹅",
+        "ssp": "",
+        "en": "疣鼻天鹅"
+    },
+    "Tadorna": {
+        "sp": "赤麻鸭",
+        "ssp": "",
+        "en": "翘鼻麻鸭"
+    },
+    "Aix": {
+        "sp": "鸳鸯",
+        "ssp": "",
+        "en": "中华秋沙鸭"
+    },
+    "Nettapus": {
+        "sp": "棉凫",
+        "ssp": "",
+        "en": "棉鸭"
+    },
+    "Spatula": {
+        "sp": "琵嘴鸭",
+        "ssp": "",
+        "en": "北琵嘴鸭"
+    },
+    "Mareca": {
+        "sp": "赤颈鸭",
+        "ssp": "",
+        "en": "欧亚赤颈鸭"
+    },
+    "Anas": {
+        "sp": "绿翅鸭",
+        "ssp": "",
+        "en": "欧亚绿翅鸭"
+    },
+    "Aythya": {
+        "sp": "白眼潜鸭",
+        "ssp": "",
+        "en": "青头潜鸭"
+    },
+    "Mergus": {
+        "sp": "中华秋沙鸭",
+        "ssp": "",
+        "en": "鳞胁秋沙鸭"
+    },
+    "Arborophila": {
+        "sp": "棕胸山鹧鸪",
+        "ssp": "",
+        "en": "斑背山鹧鸪"
+    },
+    "Lerwa": {
+        "sp": "雪鹑",
+        "ssp": "",
+        "en": "雪鹑"
+    },
+    "Ithaginis": {
+        "sp": "血雉",
+        "ssp": "杰氏亚种",
+        "en": "血雉"
+    },
+    "Tragopan": {
+        "sp": "黄腹角雉",
+        "ssp": "",
+        "en": "黄腹角雉"
+    },
+    "Tetraophasis": {
+        "sp": "四川雉鹑",
+        "ssp": "",
+        "en": "四川雉鹑"
+    },
+    "Lophophorus": {
+        "sp": "绿尾虹雉",
+        "ssp": "",
+        "en": "中华虹雉"
+    },
+    "Pucrasia": {
+        "sp": "勺鸡",
+        "ssp": "",
+        "en": "勺鸡"
+    },
+    "Tetrastes": {
+        "sp": "花尾榛鸡",
+        "ssp": "",
+        "en": "中华榛鸡"
+    },
+    "Perdix": {
+        "sp": "斑翅山鹑",
+        "ssp": "",
+        "en": "斑翅山鹑"
+    },
+    "Syrmaticus": {
+        "sp": "白颈长尾雉",
+        "ssp": "",
+        "en": "白颈长尾雉"
+    },
+    "Chrysolophus": {
+        "sp": "白腹锦鸡",
+        "ssp": "",
+        "en": "白腹锦鸡"
+    },
+    "Phasianus": {
+        "sp": "雉鸡",
+        "ssp": "",
+        "en": "环颈雉"
+    },
+    "Crossoptilon": {
+        "sp": "蓝马鸡",
+        "ssp": "",
+        "en": "蓝耳雉"
+    },
+    "Lophura": {
+        "sp": "白鹇",
+        "ssp": "海南亚种",
+        "en": "银雉"
+    },
+    "Pavo": {
+        "sp": "绿孔雀",
+        "ssp": "",
+        "en": "绿孔雀"
+    },
+    "Tropicoperdix": {
+        "sp": "绿脚山鹧鸪",
+        "ssp": "",
+        "en": "绿脚山鹧鸪"
+    },
+    "Polyplectron": {
+        "sp": "灰孔雀雉",
+        "ssp": "",
+        "en": "灰孔雀雉"
+    },
+    "Bambusicola": {
+        "sp": "灰胸竹鸡",
+        "ssp": "",
+        "en": "中华竹鸡"
+    },
+    "Gallus": {
+        "sp": "红原鸡",
+        "ssp": "",
+        "en": "红原鸡"
+    },
+    "Francolinus": {
+        "sp": "中华鹧鸪",
+        "ssp": "指名亚种",
+        "en": "中华鹧鸪"
+    },
+    "Tetraogallus": {
+        "sp": "高山雪鸡",
+        "ssp": "青海亚种",
+        "en": "高山雪鸡"
+    },
+    "Coturnix": {
+        "sp": "日本鹌鹑",
+        "ssp": "",
+        "en": "日本鹌鹑"
+    },
+    "Alectoris": {
+        "sp": "大石鸡",
+        "ssp": "",
+        "en": "大石鸡"
+    },
+    "Caprimulgus": {
+        "sp": "林夜鹰",
+        "ssp": "",
+        "en": "草原夜鹰"
+    },
+    "Batrachostomus": {
+        "sp": "黑顶蛙口鸱",
+        "ssp": "",
+        "en": "霍氏蛙口鸱"
+    },
+    "Aerodramus": {
+        "sp": "短嘴金丝燕",
+        "ssp": "",
+        "en": "喜马拉雅金丝燕"
+    },
+    "Cypsiurus": {
+        "sp": "棕雨燕",
+        "ssp": "",
+        "en": "亚洲棕雨燕"
+    },
+    "Apus": {
+        "sp": "小白腰雨燕",
+        "ssp": "",
+        "en": "家雨燕"
+    },
+    "Centropus": {
+        "sp": "小鸦鹃",
+        "ssp": "华南亚种",
+        "en": "小鸦鹃"
+    },
+    "Pycnonotus": {
+        "sp": "白头鹎",
+        "ssp": "",
+        "en": "白头鹎"
+    },
+    "Riparia": {
+        "sp": "淡色沙燕",
+        "ssp": "",
+        "en": "淡色沙燕"
+    },
+    "Ptyonoprogne": {
+        "sp": "岩燕",
+        "ssp": "",
+        "en": "欧亚岩燕"
+    },
+    "Hirundo": {
+        "sp": "家燕",
+        "ssp": "东方亚种",
+        "en": "家燕"
+    },
+    "Cecropis": {
+        "sp": "金腰燕",
+        "ssp": "指名亚种",
+        "en": "金腰燕"
+    },
+    "Pnoepyga": {
+        "sp": "小鳞胸鹪鹛",
+        "ssp": "",
+        "en": "小鳞胸鹪鹛"
+    },
+    "Abroscopus": {
+        "sp": "黑脸鹟莺",
+        "ssp": "",
+        "en": "黑脸鹟莺"
+    },
+    "Phyllergates": {
+        "sp": "山缝叶莺",
+        "ssp": "冠亚种",
+        "en": "山缝叶莺"
+    },
+    "Tickellia": {
+        "sp": "宽嘴鹟莺",
+        "ssp": "",
+        "en": "宽嘴鹟莺"
+    },
+    "Horornis": {
+        "sp": "黄腹树莺",
+        "ssp": "西南亚种",
+        "en": "异色树莺"
+    },
+    "Tesia": {
+        "sp": "灰腹地莺",
+        "ssp": "",
+        "en": "灰腹地莺"
+    },
+    "Cettia": {
+        "sp": "栗头地莺",
+        "ssp": "",
+        "en": "栗头地莺"
+    },
+    "Urosphena": {
+        "sp": "淡脚树莺",
+        "ssp": "",
+        "en": "淡脚树莺"
+    },
+    "Aegithalos": {
+        "sp": "煤山雀",
+        "ssp": "",
+        "en": "煤山雀"
+    },
+    "Leptopoecile": {
+        "sp": "凤头雀莺",
+        "ssp": "",
+        "en": "凤头雀莺"
+    },
+    "Phylloscopus": {
+        "sp": "淡眉柳莺",
+        "ssp": "",
+        "en": "戴氏柳莺"
+    },
+    "Acrocephalus": {
+        "sp": "布氏苇莺",
+        "ssp": "",
+        "en": "布氏苇莺"
+    },
+    "Arundinax": {
+        "sp": "厚嘴苇莺",
+        "ssp": "东北亚种",
+        "en": "厚嘴苇莺"
+    },
+    "Iduna": {
+        "sp": "赛氏苇莺",
+        "ssp": "",
+        "en": "赛氏苇莺"
+    },
+    "Helopsaltes": {
+        "sp": "史氏蝗莺",
+        "ssp": "",
+        "en": "史氏蝗莺"
+    },
+    "Locustella": {
+        "sp": "四川短翅莺",
+        "ssp": "",
+        "en": "四川短翅莺"
+    },
+    "Megalurus": {
+        "sp": "斑背大尾莺",
+        "ssp": "",
+        "en": "斑背大尾莺"
+    },
+    "Cisticola": {
+        "sp": "金头扇尾莺",
+        "ssp": "",
+        "en": "金头扇尾莺"
+    },
+    "Prinia": {
+        "sp": "纯色山鹪莺",
+        "ssp": "华南亚种",
+        "en": "纯色山鹪莺"
+    },
+    "Orthotomus": {
+        "sp": "长尾缝叶莺",
+        "ssp": "",
+        "en": "长尾缝叶莺"
+    },
+    "Curruca": {
+        "sp": "白喉林莺",
+        "ssp": "红喉亚种",
+        "en": "白喉林莺"
+    },
+    "Myzornis": {
+        "sp": "火尾绿鹛",
+        "ssp": "",
+        "en": "火尾绿鹛"
+    },
+    "Moupinia": {
+        "sp": "棕草鹛",
+        "ssp": "",
+        "en": "棕草鹛"
+    },
+    "Lioparus": {
+        "sp": "金胸雀鹛",
+        "ssp": "",
+        "en": "金胸雀鹛"
+    },
+    "Rhopophilus": {
+        "sp": "山鹛",
+        "ssp": "",
+        "en": "山鹛"
+    },
+    "Fulvetta": {
+        "sp": "灰头雀鹛",
+        "ssp": "",
+        "en": "灰头雀鹛"
+    },
+    "Calamornis": {
+        "sp": "震旦鸦雀",
+        "ssp": "长江亚种",
+        "en": "震旦鸦雀"
+    },
+    "Paradoxornis": {
+        "sp": "斑胸鸦雀",
+        "ssp": "",
+        "en": "斑胸鸦雀"
+    },
+    "Conostoma": {
+        "sp": "大鸦雀",
+        "ssp": "",
+        "en": "大鸦雀"
+    },
+    "Cholornis": {
+        "sp": "三趾鸦雀",
+        "ssp": "",
+        "en": "三趾鸦雀"
+    },
+    "Psittiparus": {
+        "sp": "灰头鸦雀",
+        "ssp": "福建亚种",
+        "en": "灰头鸦雀"
+    },
+    "Neosuthora": {
+        "sp": "短尾鸦雀",
+        "ssp": "",
+        "en": "短尾鸦雀"
+    },
+    "Suthora": {
+        "sp": "金色鸦雀",
+        "ssp": "指名亚种",
+        "en": "金色鸦雀"
+    },
+    "Sinosuthora": {
+        "sp": "普氏鸦雀",
+        "ssp": "",
+        "en": "普氏鸦雀"
+    },
+    "Parayuhina": {
+        "sp": "白领凤鹛",
+        "ssp": "指名亚种",
+        "en": "白领凤鹛"
+    },
+    "Staphida": {
+        "sp": "纹喉凤鹛",
+        "ssp": "",
+        "en": "印支凤鹛"
+    },
+    "Yuhina": {
+        "sp": "棕肛凤鹛",
+        "ssp": "西南亚种",
+        "en": "棕肛凤鹛"
+    },
+    "Zosterops": {
+        "sp": "暗绿绣眼鸟",
+        "ssp": "",
+        "en": "印度绣眼鸟"
+    },
+    "Timalia": {
+        "sp": "红顶鹛",
+        "ssp": "",
+        "en": "红顶鹛"
+    },
+    "Mixornis": {
+        "sp": "纹胸鹛",
+        "ssp": "",
+        "en": "纹胸鹛"
+    },
+    "Cyanoderma": {
+        "sp": "红头穗鹛",
+        "ssp": "华南亚种",
+        "en": "红头穗鹛"
+    },
+    "Spelaeornis": {
+        "sp": "淡喉鹪鹛",
+        "ssp": "",
+        "en": "淡喉鹪鹛"
+    },
+    "Pomatorhinus": {
+        "sp": "白眉鹛",
+        "ssp": "",
+        "en": "白眉鹛"
+    },
+    "Erythrogenys": {
+        "sp": "灰颊鹛",
+        "ssp": "",
+        "en": "灰颊鹛"
+    },
+    "Stachyris": {
+        "sp": "斑颈穗鹛",
+        "ssp": "华南亚种",
+        "en": "斑颈穗鹛"
+    },
+    "Graminicola": {
+        "sp": "中华草鹛",
+        "ssp": "中华亚种",
+        "en": "中华草鹛"
+    },
+    "Schoeniparus": {
+        "sp": "褐头雀鹛",
+        "ssp": "西南亚种",
+        "en": "褐头雀鹛"
+    },
+    "Pellorneum": {
+        "sp": "黄腹鹪鹛",
+        "ssp": "",
+        "en": "黄腹鹪鹛"
+    },
+    "Gypsophila": {
+        "sp": "越南鹪鹛",
+        "ssp": "",
+        "en": "越南鹪鹛"
+    },
+    "Napothera": {
+        "sp": "短尾鹪鹛",
+        "ssp": "",
+        "en": "短尾鹪鹛"
+    },
+    "Alcippe": {
+        "sp": "云南雀鹛",
+        "ssp": "",
+        "en": "云南雀鹛"
+    },
+    "Grammatoptila": {
+        "sp": "条纹噪鹛",
+        "ssp": "",
+        "en": "条纹噪鹛"
+    },
+    "Cutia": {
+        "sp": "斑胁姬鹛",
+        "ssp": "",
+        "en": "斑胁姬鹛"
+    },
+    "Trochalopteron": {
+        "sp": "红翅噪鹛",
+        "ssp": "指名亚种",
+        "en": "红翅噪鹛"
+    },
+    "Heterophasia": {
+        "sp": "黑头奇鹛",
+        "ssp": "",
+        "en": "黑头奇鹛"
+    },
+    "Actinodura": {
+        "sp": "斑翅鹛",
+        "ssp": "",
+        "en": "斑翅鹛"
+    },
+    "Leiothrix": {
+        "sp": "银耳相思鸟",
+        "ssp": "",
+        "en": "银耳相思鸟"
+    },
+    "Minla": {
+        "sp": "红尾鵙鹛",
+        "ssp": "",
+        "en": "红尾鵙鹛"
+    },
+    "Leioptila": {
+        "sp": "栗背奇鹛",
+        "ssp": "混合亚种",
+        "en": "栗背奇鹛"
+    },
+    "Liocichla": {
+        "sp": "红翅薮鹛",
+        "ssp": "",
+        "en": "红翅薮鹛"
+    },
+    "Garrulax": {
+        "sp": "栗颊噪鹛",
+        "ssp": "",
+        "en": "栗颊噪鹛"
+    },
+    "Ianthocincla": {
+        "sp": "斑背噪鹛",
+        "ssp": "",
+        "en": "斑背噪鹛"
+    },
+    "Pterorhinus": {
+        "sp": "黄喉噪鹛",
+        "ssp": "",
+        "en": "黄喉噪鹛"
+    },
+    "Regulus": {
+        "sp": "戴菊",
+        "ssp": "",
+        "en": "戴菊"
+    },
+    "Elachura": {
+        "sp": "斑喉希鹛",
+        "ssp": "",
+        "en": "斑喉希鹛"
+    },
+    "Troglodytes": {
+        "sp": "鹪鹩",
+        "ssp": "",
+        "en": "鹪鹩"
+    },
+    "Sitta": {
+        "sp": "栗臀䴓",
+        "ssp": "山地亚种",
+        "en": "栗臀䴓"
+    },
+    "Tichodroma": {
+        "sp": "红翅旋壁雀",
+        "ssp": "",
+        "en": "红翅旋壁雀"
+    },
+    "Certhia": {
+        "sp": "四川旋木雀",
+        "ssp": "",
+        "en": "四川旋木雀"
+    },
+    "Gracula": {
+        "sp": "鹩哥",
+        "ssp": "",
+        "en": "鹩哥"
+    },
+    "Acridotheres": {
+        "sp": "家八哥",
+        "ssp": "",
+        "en": "家八哥"
+    },
+    "Spodiopsar": {
+        "sp": "灰椋鸟",
+        "ssp": "",
+        "en": "灰椋鸟"
+    },
+    "Gracupica": {
+        "sp": "黑领椋鸟",
+        "ssp": "",
+        "en": "黑领椋鸟"
+    },
+    "Agropsar": {
+        "sp": "北椋鸟",
+        "ssp": "",
+        "en": "北椋鸟"
+    },
+    "Sturnia": {
+        "sp": "灰背椋鸟",
+        "ssp": "",
+        "en": "灰背椋鸟"
+    },
+    "Sturnus": {
+        "sp": "紫翅椋鸟",
+        "ssp": "新疆亚种",
+        "en": "紫翅椋鸟"
+    },
+    "Grandala": {
+        "sp": "蓝大翅鸲",
+        "ssp": "",
+        "en": "蓝大翅鸲"
+    },
+    "Zoothera": {
+        "sp": "白氏地鸫",
+        "ssp": "指名亚种",
+        "en": "白氏地鸫"
+    },
+    "Geokichla": {
+        "sp": "橙头地鸫",
+        "ssp": "",
+        "en": "橙头地鸫"
+    },
+    "Turdus": {
+        "sp": "白颈鸫",
+        "ssp": "",
+        "en": "白颈鸫"
+    },
+    "Phaenicophaeus": {
+        "sp": "绿嘴地鹃",
+        "ssp": "",
+        "en": "绿嘴地鹃"
+    },
+    "Clamator": {
+        "sp": "红翅凤头鹃",
+        "ssp": "",
+        "en": "红翅凤头鹃"
+    },
+    "Eudynamys": {
+        "sp": "噪鹃",
+        "ssp": "",
+        "en": "噪鹃"
+    },
+    "Chrysococcyx": {
+        "sp": "翠金鹃",
+        "ssp": "",
+        "en": "翠金鹃"
+    },
+    "Cacomantis": {
+        "sp": "八声杜鹃",
+        "ssp": "",
+        "en": "八声杜鹃"
+    },
+    "Surniculus": {
+        "sp": "乌鹃",
+        "ssp": "",
+        "en": "乌鹃"
+    },
+    "Hierococcyx": {
+        "sp": "霍氏鹰鹃",
+        "ssp": "",
+        "en": "霍氏鹰鹃"
+    },
+    "Cuculus": {
+        "sp": "大杜鹃",
+        "ssp": "",
+        "en": "大杜鹃"
+    },
+    "Syrrhaptes": {
+        "sp": "毛腿沙鸡",
+        "ssp": "",
+        "en": "毛腿沙鸡"
+    },
+    "Columba": {
+        "sp": "欧鸽",
+        "ssp": "",
+        "en": "欧鸽"
+    },
+    "Streptopelia": {
+        "sp": "火斑鸠",
+        "ssp": "",
+        "en": "火斑鸠"
+    },
+    "Spilopelia": {
+        "sp": "珠颈斑鸠",
+        "ssp": "",
+        "en": "珠颈斑鸠"
+    },
+    "Macropygia": {
+        "sp": "斑尾鹃鸠",
+        "ssp": "华南亚种",
+        "en": "斑尾鹃鸠"
+    },
+    "Chalcophaps": {
+        "sp": "绿翅金鸠",
+        "ssp": "",
+        "en": "绿翅金鸠"
+    },
+    "Treron": {
+        "sp": "楔尾绿鸠",
+        "ssp": "指名亚种",
+        "en": "楔尾绿鸠"
+    },
+    "Ducula": {
+        "sp": "山皇鸠",
+        "ssp": "",
+        "en": "山皇鸠"
+    },
+    "Rallus": {
+        "sp": "普通秧鸡",
+        "ssp": "",
+        "en": "普通秧鸡"
+    },
+    "Lewinia": {
+        "sp": "蓝胸秧鸡",
+        "ssp": "",
+        "en": "蓝胸秧鸡"
+    },
+    "Gallinula": {
+        "sp": "黑水鸡",
+        "ssp": "指名亚种",
+        "en": "黑水鸡"
+    },
+    "Fulica": {
+        "sp": "骨顶鸡",
+        "ssp": "",
+        "en": "骨顶鸡"
+    },
+    "Porphyrio": {
+        "sp": "紫水鸡",
+        "ssp": "东南亚种",
+        "en": "紫水鸡"
+    },
+    "Coturnicops": {
+        "sp": "花田鸡",
+        "ssp": "",
+        "en": "花田鸡"
+    },
+    "Zapornia": {
+        "sp": "红脚苦恶鸟",
+        "ssp": "",
+        "en": "红脚苦恶鸟"
+    },
+    "Rallina": {
+        "sp": "白喉斑秧鸡",
+        "ssp": "",
+        "en": "白喉斑秧鸡"
+    },
+    "Gallicrex": {
+        "sp": "董鸡",
+        "ssp": "",
+        "en": "董鸡"
+    },
+    "Cercotrichas": {
+        "sp": "棕薮鸲",
+        "ssp": "",
+        "en": "棕薮鸲"
+    },
+    "Copsychus": {
+        "sp": "白腰鹊鸲",
+        "ssp": "",
+        "en": "白腰鹊鸲"
+    },
+    "Muscicapa": {
+        "sp": "棕尾褐鹟",
+        "ssp": "",
+        "en": "棕尾褐鹟"
+    },
+    "Anthipes": {
+        "sp": "白喉姬鹟",
+        "ssp": "",
+        "en": "白喉姬鹟"
+    },
+    "Cyornis": {
+        "sp": "棕胸蓝姬鹟",
+        "ssp": "",
+        "en": "棕胸蓝姬鹟"
+    },
+    "Niltava": {
+        "sp": "小仙鹟",
+        "ssp": "",
+        "en": "小仙鹟"
+    },
+    "Cyanoptila": {
+        "sp": "白腹蓝姬鹟",
+        "ssp": "",
+        "en": "白腹蓝姬鹟"
+    },
+    "Eumyias": {
+        "sp": "铜蓝鹟",
+        "ssp": "",
+        "en": "铜蓝鹟"
+    },
+    "Brachypteryx": {
+        "sp": "白眉短翅鸫",
+        "ssp": "",
+        "en": "白眉短翅鸫"
+    },
+    "Larvivora": {
+        "sp": "日本歌鸲",
+        "ssp": "",
+        "en": "日本歌鸲"
+    },
+    "Luscinia": {
+        "sp": "新疆歌鸲",
+        "ssp": "",
+        "en": "新疆歌鸲"
+    },
+    "Calliope": {
+        "sp": "黑喉歌鸲",
+        "ssp": "",
+        "en": "黑喉歌鸲"
+    },
+    "Myiomela": {
+        "sp": "白尾蓝地鸲",
+        "ssp": "",
+        "en": "白尾蓝地鸲"
+    },
+    "Tarsiger": {
+        "sp": "金胸歌鸲",
+        "ssp": "",
+        "en": "金胸歌鸲"
+    },
+    "Enicurus": {
+        "sp": "斑背燕尾",
+        "ssp": "",
+        "en": "斑背燕尾"
+    },
+    "Myophonus": {
+        "sp": "紫啸鸫",
+        "ssp": "",
+        "en": "紫啸鸫"
+    },
+    "Cinclidium": {
+        "sp": "蓝额红尾鸲",
+        "ssp": "",
+        "en": "蓝额红尾鸲"
+    },
+    "Ficedula": {
+        "sp": "红喉姬鹟",
+        "ssp": "",
+        "en": "红喉姬鹟"
+    },
+    "Phoenicurus": {
+        "sp": "白顶溪鸲",
+        "ssp": "",
+        "en": "白顶溪鸲"
+    },
+    "Monticola": {
+        "sp": "白喉矶鸫",
+        "ssp": "",
+        "en": "白喉矶鸫"
+    },
+    "Saxicola": {
+        "sp": "灰林䳭",
+        "ssp": "",
+        "en": "灰林䳭"
+    },
+    "Oenanthe": {
+        "sp": "白顶䳭",
+        "ssp": "",
+        "en": "白顶䳭"
+    },
+    "Cinclus": {
+        "sp": "褐河乌",
+        "ssp": "",
+        "en": "褐河乌"
+    },
+    "Dicaeum": {
+        "sp": "朱背啄花鸟",
+        "ssp": "华南亚种",
+        "en": "朱背啄花鸟"
+    },
+    "Anthreptes": {
+        "sp": "褐喉食蜜鸟",
+        "ssp": "",
+        "en": "褐喉食蜜鸟"
+    },
+    "Cinnyris": {
+        "sp": "黄腹花蜜鸟",
+        "ssp": "",
+        "en": "黄腹花蜜鸟"
+    },
+    "Aethopyga": {
+        "sp": "火尾太阳鸟",
+        "ssp": "",
+        "en": "火尾太阳鸟"
+    },
+    "Arachnothera": {
+        "sp": "纹背捕蛛鸟",
+        "ssp": "",
+        "en": "纹背捕蛛鸟"
+    },
+    "Petronia": {
+        "sp": "石雀",
+        "ssp": "东亚亚种",
+        "en": "石雀"
+    },
+    "Onychostruthus": {
+        "sp": "白腰雪雀",
+        "ssp": "",
+        "en": "白腰雪雀"
+    },
+    "Montifringilla": {
+        "sp": "黑翅雪雀",
+        "ssp": "青藏亚种",
+        "en": "黑翅雪雀"
+    },
+    "Pyrgilauda": {
+        "sp": "棕颈雪雀",
+        "ssp": "",
+        "en": "棕颈雪雀"
+    },
+    "Passer": {
+        "sp": "家麻雀",
+        "ssp": "",
+        "en": "家麻雀"
+    },
+    "Taeniopygia": {
+        "sp": "斑胸草雀",
+        "ssp": "",
+        "en": "斑胸草雀"
+    },
+    "Lonchura": {
+        "sp": "白腰文鸟",
+        "ssp": "",
+        "en": "白腰文鸟"
+    },
+    "Amandava": {
+        "sp": "红梅花雀",
+        "ssp": "指名亚种",
+        "en": "红梅花雀"
+    },
+    "Prunella": {
+        "sp": "栗背岩鹨",
+        "ssp": "",
+        "en": "栗背岩鹨"
+    },
+    "Dendronanthus": {
+        "sp": "山鹡鸰",
+        "ssp": "",
+        "en": "山鹡鸰"
+    },
+    "Motacilla": {
+        "sp": "日本鹡鸰",
+        "ssp": "",
+        "en": "日本鹡鸰"
+    },
+    "Anthus": {
+        "sp": "北鹨",
+        "ssp": "",
+        "en": "北鹨"
+    },
+    "Urocynchramus": {
+        "sp": "朱鹀",
+        "ssp": "",
+        "en": "朱鹀"
+    },
+    "Fringilla": {
+        "sp": "燕雀",
+        "ssp": "",
+        "en": "燕雀"
+    },
+    "Mycerobas": {
+        "sp": "白翅拟蜡嘴雀",
+        "ssp": "",
+        "en": "白翅拟蜡嘴雀"
+    },
+    "Coccothraustes": {
+        "sp": "锡嘴雀",
+        "ssp": "",
+        "en": "锡嘴雀"
+    },
+    "Eophona": {
+        "sp": "黑头蜡嘴雀",
+        "ssp": "",
+        "en": "黑头蜡嘴雀"
+    },
+    "Pyrrhula": {
+        "sp": "灰头灰雀",
+        "ssp": "",
+        "en": "灰头灰雀"
+    },
+    "Agraphospiza": {
+        "sp": "玫红眉朱雀",
+        "ssp": "",
+        "en": "玫红眉朱雀"
+    },
+    "Pyrrhoplectes": {
+        "sp": "金枕黑雀",
+        "ssp": "",
+        "en": "金枕黑雀"
+    },
+    "Procarduelis": {
+        "sp": "暗胸朱雀",
+        "ssp": "指名亚种",
+        "en": "暗胸朱雀"
+    },
+    "Leucosticte": {
+        "sp": "粉红腹岭雀",
+        "ssp": "",
+        "en": "粉红腹岭雀"
+    },
+    "Carpodacus": {
+        "sp": "红眉松雀",
+        "ssp": "",
+        "en": "红眉松雀"
+    },
+    "Chloris": {
+        "sp": "黑头金翅雀",
+        "ssp": "",
+        "en": "黑头金翅雀"
+    },
+    "Linaria": {
+        "sp": "黄嘴朱顶雀",
+        "ssp": "",
+        "en": "黄嘴朱顶雀"
+    },
+    "Acanthis": {
+        "sp": "白腰朱顶雀",
+        "ssp": "",
+        "en": "白腰朱顶雀"
+    },
+    "Loxia": {
+        "sp": "白翅交嘴雀",
+        "ssp": "",
+        "en": "白翅交嘴雀"
+    },
+    "Serinus": {
+        "sp": "金额丝雀",
+        "ssp": "",
+        "en": "金额丝雀"
+    },
+    "Spinus": {
+        "sp": "黄雀",
+        "ssp": "",
+        "en": "黄雀"
+    },
+    "Calcarius": {
+        "sp": "铁爪鹀",
+        "ssp": "",
+        "en": "铁爪鹀"
+    },
+    "Emberiza": {
+        "sp": "栗鹀",
+        "ssp": "",
+        "en": "栗鹀"
+    },
+    "Conocephalus": {
+        "sp": "长翅草螽",
+        "ssp": "",
+        "en": ""
+    },
+    "Euconocephalus": {
+        "sp": "鼻优草螽",
+        "ssp": "",
+        "en": ""
+    },
+    "Gryllodes": {
+        "sp": "家蟋蟀",
+        "ssp": "",
+        "en": "家蟋蟀"
+    },
+    "Gryllus": {
+        "sp": "双斑蟋",
+        "ssp": "",
+        "en": "双斑蟋"
+    },
+    "Hexacentrus": {
+        "sp": "日本露螽",
+        "ssp": "",
+        "en": ""
+    },
+    "Homoeoxipha": {
+        "sp": "叮咚叶蟋",
+        "ssp": "隐匿亚种",
+        "en": "叮咚叶蟋"
+    },
+    "Loxoblemmus": {
+        "sp": "多伊棺头蟋",
+        "ssp": "",
+        "en": ""
+    },
+    "Mecopoda": {
+        "sp": "日本纺织娘",
+        "ssp": "",
+        "en": ""
+    },
+    "Polionemobius": {
+        "sp": "锡兰哑蟋",
+        "ssp": "",
+        "en": ""
+    },
+    "Pseudorhynchus": {
+        "sp": "粗头拟喙螽",
+        "ssp": "",
+        "en": ""
+    },
+    "Pteronemobius": {
+        "sp": "亮灰针蟋",
+        "ssp": "",
+        "en": ""
+    },
+    "Ruspolia": {
+        "sp": "线纹螽斯",
+        "ssp": "",
+        "en": ""
+    },
+    "Dianemobius": {
+        "sp": "束带螽斯",
+        "ssp": "",
+        "en": ""
+    },
+    "Gryllotalpa": {
+        "sp": "东方蝼蛄",
+        "ssp": "",
+        "en": ""
+    },
+    "Natula": {
+        "sp": "松浦蟋蟀",
+        "ssp": "",
+        "en": ""
+    },
+    "Oecanthus": {
+        "sp": "红褐树蟋",
+        "ssp": "",
+        "en": "条纹树蟋"
+    },
+    "Svistella": {
+        "sp": "双带铃蟋",
+        "ssp": "",
+        "en": "金铃蟋"
+    },
+    "Turanogryllus": {
+        "sp": "赤蟋蟀",
+        "ssp": "",
+        "en": ""
+    },
+    "Velarifictorus": {
+        "sp": "贝氏油葫芦",
+        "ssp": "",
+        "en": ""
+    },
+    "Xenogryllus": {
+        "sp": "大理石纹蟋蟀",
+        "ssp": "",
+        "en": ""
+    },
+    "Ducetia": {
+        "sp": "日本杜氏螽斯",
+        "ssp": "",
+        "en": "太平洋杜氏螽斯"
+    },
+    "Svercacheta": {
+        "sp": "暹罗螽斯",
+        "ssp": "",
+        "en": ""
+    },
+    "Meloimorpha": {
+        "sp": "日本黄螽斯",
+        "ssp": "",
+        "en": ""
+    },
+    "Teleogryllus": {
+        "sp": "大洋蟋蟀",
+        "ssp": "",
+        "en": "大洋田野蟋蟀"
+    },
+    "Eptesicus": {
+        "sp": "普通伏翼",
+        "ssp": "",
+        "en": "欧亚伏翼"
+    },
+    "Sonus": {
+        "sp": "自然声",
+        "ssp": "",
+        "en": "声景"
+    },
+    "Mystery": {
+        "sp": "神秘物种",
+        "ssp": "",
+        "en": "身份未知"
+    },
+    "Amaurornis": {
+        "sp": "白胸苦恶鸟",
+        "ssp": "",
+        "en": "白胸水鸡"
+    },
+    "Leucogeranus": {
+        "sp": "白鹤",
+        "ssp": "",
+        "en": "西伯利亚鹤"
+    },
+    "Antigone": {
+        "sp": "白枕鹤",
+        "ssp": "",
+        "en": "白颈鹤"
+    },
+    "Grus": {
+        "sp": "黑颈鹤",
+        "ssp": "",
+        "en": "黑颈鹤"
+    },
+    "Tachybaptus": {
+        "sp": "小䴙䴘",
+        "ssp": "波格小䴙䴘",
+        "en": "小䴙䴘"
+    },
+    "Podiceps": {
+        "sp": "凤头䴙䴘",
+        "ssp": "",
+        "en": "大凤头䴙䴘"
+    },
+    "Phoenicopterus": {
+        "sp": "美洲红鹮",
+        "ssp": "",
+        "en": "美洲火烈鸟"
+    },
+    "Turnix": {
+        "sp": "棕三趾鹑",
+        "ssp": "棕三趾鹑布莱基斯顿亚种",
+        "en": "棕三趾鹑"
+    },
+    "Haematopus": {
+        "sp": "欧亚蛎鹬",
+        "ssp": "",
+        "en": "欧亚蛎鹬"
+    },
+    "Ibidorhyncha": {
+        "sp": "彩鹮",
+        "ssp": "",
+        "en": "彩鹮"
+    },
+    "Himantopus": {
+        "sp": "黑翅长脚鹬",
+        "ssp": "",
+        "en": "黑翅长脚鹬"
+    },
+    "Recurvirostra": {
+        "sp": "反嘴鹬",
+        "ssp": "",
+        "en": "反嘴鹬"
+    },
+    "Vanellus": {
+        "sp": "灰头麦鸡",
+        "ssp": "",
+        "en": "灰头麦鸡"
+    },
+    "Pluvialis": {
+        "sp": "灰斑鸻",
+        "ssp": "",
+        "en": "灰斑鸻"
+    },
+    "Rostratula": {
+        "sp": "大滨鹬",
+        "ssp": "",
+        "en": "大彩鹬"
+    },
+    "Numenius": {
+        "sp": "欧亚曲嘴鹬",
+        "ssp": "东方亚种",
+        "en": "欧亚曲嘴鹬"
+    },
+    "Limosa": {
+        "sp": "黑尾塍鹬",
+        "ssp": "黑尾塍鹬指名亚种",
+        "en": "黑尾塍鹬"
+    },
+    "Arenaria": {
+        "sp": "红颈瓣蹼鹬",
+        "ssp": "",
+        "en": "红颈瓣蹼鹬"
+    },
+    "Calidris": {
+        "sp": "弯嘴滨鹬",
+        "ssp": "",
+        "en": "弯嘴滨鹬"
+    },
+    "Gallinago": {
+        "sp": "普通鹬",
+        "ssp": "普通鹬指名亚种",
+        "en": "普通鹬"
+    },
+    "Xenus": {
+        "sp": "红脚鹬",
+        "ssp": "",
+        "en": "泽鹬"
+    },
+    "Actitis": {
+        "sp": "青脚滨鹬",
+        "ssp": "",
+        "en": "青脚滨鹬"
+    },
+    "Tringa": {
+        "sp": "诺德曼绿脚鹬",
+        "ssp": "",
+        "en": "诺德曼绿脚鹬"
+    },
+    "Glareola": {
+        "sp": "东方董鸡",
+        "ssp": "",
+        "en": "东方董鸡"
+    },
+    "Chroicocephalus": {
+        "sp": "萨氏银鸥",
+        "ssp": "",
+        "en": "萨氏银鸥"
+    },
+    "Ichthyaetus": {
+        "sp": "渔鸥",
+        "ssp": "",
+        "en": "渔鸥"
+    },
+    "Larus": {
+        "sp": "里海银鸥",
+        "ssp": "",
+        "en": "里海鸥"
+    },
+    "Gelochelidon": {
+        "sp": "鸥嘴噪鸥",
+        "ssp": "",
+        "en": "鸥嘴噪鸥"
+    },
+    "Hydroprogne": {
+        "sp": "红嘴巨鸥",
+        "ssp": "",
+        "en": "红嘴巨鸥"
+    },
+    "Thalasseus": {
+        "sp": "中华凤头燕鸥",
+        "ssp": "",
+        "en": "中华凤头燕鸥"
+    },
+    "Sternula": {
+        "sp": "小凤头燕鸥",
+        "ssp": "小凤头燕鸥指名亚种",
+        "en": "小凤头燕鸥"
+    },
+    "Onychoprion": {
+        "sp": "白额燕鸥",
+        "ssp": "白额燕鸥指名亚种",
+        "en": "白额燕鸥"
+    },
+    "Sterna": {
+        "sp": "普通燕鸥",
+        "ssp": "",
+        "en": "普通燕鸥"
+    },
+    "Chlidonias": {
+        "sp": "白翅浮鸥",
+        "ssp": "",
+        "en": "白翅浮鸥"
+    },
+    "Hydrobates": {
+        "sp": "褐翅燕鸥",
+        "ssp": "",
+        "en": "斯温霍氏风暴海燕"
+    },
+    "Calonectris": {
+        "sp": "白额鹱",
+        "ssp": "",
+        "en": "白额鹱"
+    },
+    "Ciconia": {
+        "sp": "东方白鹳",
+        "ssp": "",
+        "en": "东方白鹳"
+    },
+    "Phalacrocorax": {
+        "sp": "普通鸬鹚",
+        "ssp": "普通鸬鹚指名亚种",
+        "en": "普通鸬鹚"
+    },
+    "Nipponia": {
+        "sp": "朱鹮",
+        "ssp": "",
+        "en": "朱鹮"
+    },
+    "Platalea": {
+        "sp": "白琵鹭",
+        "ssp": "",
+        "en": "白琵鹭"
+    },
+    "Botaurus": {
+        "sp": "欧亚大苇莺",
+        "ssp": "",
+        "en": "欧亚大苇莺"
+    },
+    "Ixobrychus": {
+        "sp": "黄苇鳽",
+        "ssp": "",
+        "en": "黄苇鳽"
+    },
+    "Gorsachius": {
+        "sp": "马来夜鹭",
+        "ssp": "",
+        "en": "马来夜鹭"
+    },
+    "Nycticorax": {
+        "sp": "夜鹭",
+        "ssp": "夜鹭指名亚种",
+        "en": "夜鹭"
+    },
+    "Butorides": {
+        "sp": "绿鹭",
+        "ssp": "绿鹭阿穆尔亚种或绿鹭指名亚种",
+        "en": "绿鹭"
+    },
+    "Ardeola": {
+        "sp": "池鹭",
+        "ssp": "",
+        "en": "池鹭"
+    },
+    "Bubulcus": {
+        "sp": "东方牛背鹭",
+        "ssp": "",
+        "en": "东方牛背鹭"
+    },
+    "Ardea": {
+        "sp": "中白鹭",
+        "ssp": "",
+        "en": "中白鹭"
+    },
+    "Egretta": {
+        "sp": "小白鹭",
+        "ssp": "",
+        "en": "小白鹭"
+    },
+    "Pandion": {
+        "sp": "西方鱼鹰",
+        "ssp": "西方鱼鹰指名亚种",
+        "en": "西方鱼鹰"
+    },
+    "Elanus": {
+        "sp": "黑翅鸢",
+        "ssp": "",
+        "en": "黑翅鸢"
+    },
+    "Gypaetus": {
+        "sp": "胡兀鹫",
+        "ssp": "",
+        "en": "胡兀鹫"
+    },
+    "Pernis": {
+        "sp": "凤头蜂鹰",
+        "ssp": "",
+        "en": "凤头蜂鹰"
+    },
+    "Aviceda": {
+        "sp": "黑冠鹃隼",
+        "ssp": "",
+        "en": "黑冠鹃隼"
+    },
+    "Gyps": {
+        "sp": "喜马拉雅兀鹫",
+        "ssp": "",
+        "en": "喜马拉雅兀鹫"
+    },
+    "Spilornis": {
+        "sp": "蛇雕",
+        "ssp": "",
+        "en": "蛇雕"
+    },
+    "Nisaetus": {
+        "sp": "鹰雕",
+        "ssp": "",
+        "en": "鹰雕"
+    },
+    "Aquila": {
+        "sp": "短趾雕",
+        "ssp": "",
+        "en": "短趾雕"
+    },
+    "Accipiter": {
+        "sp": "北鹰鸮",
+        "ssp": "",
+        "en": "北鹰鸮"
+    },
+    "Circus": {
+        "sp": "东方沼泽鹞",
+        "ssp": "",
+        "en": "东方沼泽鹞"
+    },
+    "Milvus": {
+        "sp": "黑鸢",
+        "ssp": "黑鸢线纹亚种",
+        "en": "黑鸢"
+    },
+    "Butastur": {
+        "sp": "灰脸鵟鹰",
+        "ssp": "",
+        "en": "灰脸鵟鹰"
+    },
+    "Buteo": {
+        "sp": "东方鵟",
+        "ssp": "",
+        "en": "东方鵟"
+    },
+    "Ninox": {
+        "sp": "棕鹰鸮",
+        "ssp": "",
+        "en": "棕鹰鸮"
+    },
+    "Taenioptynx": {
+        "sp": "领角鸮",
+        "ssp": "领角鸮指名亚种",
+        "en": "领角鸮"
+    },
+    "Aegolius": {
+        "sp": "北鸮",
+        "ssp": "北鸮贝克亚种",
+        "en": "北鸮"
+    },
+    "Athene": {
+        "sp": "小鸮",
+        "ssp": "",
+        "en": "小鸮"
+    },
+    "Glaucidium": {
+        "sp": "亚洲斑林鸮",
+        "ssp": "",
+        "en": "亚洲斑林鸮"
+    },
+    "Otus": {
+        "sp": "日本角鸮",
+        "ssp": "",
+        "en": "日本角鸮"
+    },
+    "Asio": {
+        "sp": "长耳鸮",
+        "ssp": "长耳鸮指名亚种",
+        "en": "长耳鸮"
+    },
+    "Bubo": {
+        "sp": "雕鸮",
+        "ssp": "",
+        "en": "雕鸮"
+    },
+    "Ketupa": {
+        "sp": "褐鱼鸮",
+        "ssp": "",
+        "en": "褐鱼鸮"
+    },
+    "Strix": {
+        "sp": "乌林鸮",
+        "ssp": "",
+        "en": "乌林鸮"
+    },
+    "Harpactes": {
+        "sp": "红头咬鹃",
+        "ssp": "",
+        "en": "红头咬鹃"
+    },
+    "Upupa": {
+        "sp": "戴胜",
+        "ssp": "",
+        "en": "戴胜"
+    },
+    "Eurystomus": {
+        "sp": "东方阔嘴鸟",
+        "ssp": "",
+        "en": "东方阔嘴鸟"
+    },
+    "Halcyon": {
+        "sp": "黑冠翠鸟",
+        "ssp": "",
+        "en": "黑冠翠鸟"
+    },
+    "Alcedo": {
+        "sp": "蓝喉翠鸟",
+        "ssp": "",
+        "en": "蓝喉翠鸟"
+    },
+    "Megaceryle": {
+        "sp": "冠鱼狗",
+        "ssp": "冠鱼狗点斑亚种",
+        "en": "冠鱼狗"
+    },
+    "Ceryle": {
+        "sp": "斑鱼狗",
+        "ssp": "斑鱼狗显斑亚种",
+        "en": "斑鱼狗"
+    },
+    "Merops": {
+        "sp": "蓝尾蜂虎",
+        "ssp": "",
+        "en": "蓝尾蜂虎"
+    },
+    "Psilopogon": {
+        "sp": "赤胸拟啄木鸟",
+        "ssp": "",
+        "en": "赤胸拟啄木鸟"
+    },
+    "Indicator": {
+        "sp": "黄腰响蜜䴕",
+        "ssp": "",
+        "en": "黄腰响蜜䴕"
+    },
+    "Jynx": {
+        "sp": "欧亚啄木鸟",
+        "ssp": "",
+        "en": "欧亚啄木鸟"
+    },
+    "Picumnus": {
+        "sp": "斑姬啄木鸟",
+        "ssp": "斑姬啄木鸟指名亚种",
+        "en": "斑姬啄木鸟"
+    },
+    "Sasia": {
+        "sp": "白眉姬啄木鸟",
+        "ssp": "白眉姬啄木鸟金氏亚种",
+        "en": "白眉姬啄木鸟"
+    },
+    "Yungipicus": {
+        "sp": "日本姬啄木鸟",
+        "ssp": "",
+        "en": "日本姬啄木鸟"
+    },
+    "Picoides": {
+        "sp": "三趾啄木鸟",
+        "ssp": "三趾啄木鸟暗色亚种",
+        "en": "欧亚三趾啄木鸟"
+    },
+    "Dryobates": {
+        "sp": "小斑啄木鸟",
+        "ssp": "小斑啄木鸟阿穆尔亚种",
+        "en": "小斑啄木鸟"
+    },
+    "Dendrocopos": {
+        "sp": "白背啄木鸟",
+        "ssp": "白背啄木鸟台湾亚种",
+        "en": "白背啄木鸟"
+    },
+    "Dryocopus": {
+        "sp": "黑啄木鸟",
+        "ssp": "",
+        "en": "黑啄木鸟"
+    },
+    "Chrysophlegma": {
+        "sp": "大金背啄木鸟",
+        "ssp": "大金背啄木鸟史氏亚种",
+        "en": "大金背啄木鸟"
+    },
+    "Picus": {
+        "sp": "灰头绿啄木鸟",
+        "ssp": "灰头绿啄木鸟对马亚种",
+        "en": "灰头绿啄木鸟"
+    },
+    "Gecinulus": {
+        "sp": "淡头啄木鸟",
+        "ssp": "淡头啄木鸟青绿亚种",
+        "en": "淡头啄木鸟"
+    },
+    "Blythipicus": {
+        "sp": "赤胸啄木鸟",
+        "ssp": "",
+        "en": "赤胸啄木鸟"
+    },
+    "Micropternus": {
+        "sp": "棕腹啄木鸟",
+        "ssp": "棕腹啄木鸟长山亚种",
+        "en": "棕腹啄木鸟"
+    },
+    "Microhierax": {
+        "sp": "白腿小隼",
+        "ssp": "",
+        "en": "白腿小隼"
+    },
+    "Falco": {
+        "sp": "游隼",
+        "ssp": "",
+        "en": "游隼"
+    },
+    "Nymphicus": {
+        "sp": "鸡尾鹦鹉",
+        "ssp": "",
+        "en": "鸡尾鹦鹉"
+    },
+    "Cacatua": {
+        "sp": "小葵花凤头鹦鹉",
+        "ssp": "",
+        "en": "小葵花凤头鹦鹉"
+    },
+    "Psittacula": {
+        "sp": "亚历山大鹦鹉",
+        "ssp": "",
+        "en": "亚历山大鹦鹉"
+    },
+    "Trichoglossus": {
+        "sp": "椰子鹦鹉",
+        "ssp": "",
+        "en": "椰子鹦鹉"
+    },
+    "Psarisomus": {
+        "sp": "长尾阔嘴鸟",
+        "ssp": "长尾阔嘴鸟指名亚种",
+        "en": "长尾阔嘴鸟"
+    },
+    "Hydrornis": {
+        "sp": "蓝枕八色鸫",
+        "ssp": "蓝枕八色鸫道格拉斯亚种",
+        "en": "蓝枕八色鸫"
+    },
+    "Pitta": {
+        "sp": "仙八色鸫",
+        "ssp": "",
+        "en": "仙八色鸫"
+    },
+    "Tephrodornis": {
+        "sp": "大林鵙鹟",
+        "ssp": "大林鵙鹟海南亚种",
+        "en": "大林鵙鹟"
+    },
+    "Artamus": {
+        "sp": "灰燕鵙",
+        "ssp": "",
+        "en": "灰燕鵙"
+    },
+    "Aegithina": {
+        "sp": "普通黄鹎",
+        "ssp": "",
+        "en": "普通黄鹎"
+    },
+    "Pericrocotus": {
+        "sp": "红头穗鹛",
+        "ssp": "",
+        "en": "红头穗鹛"
+    },
+    "Lalage": {
+        "sp": "黑翅鵙鸫",
+        "ssp": "",
+        "en": "黑翅鵙鸫"
+    },
+    "Pteruthius": {
+        "sp": "布氏鹛鸫",
+        "ssp": "",
+        "en": "布氏鹛鸫"
+    },
+    "Erpornis": {
+        "sp": "白腹鵙鹟",
+        "ssp": "白腹鵙鹟灰喉亚种",
+        "en": "白腹鵙鹟"
+    },
+    "Oriolus": {
+        "sp": "黑枕黄鹂",
+        "ssp": "",
+        "en": "黑枕黄鹂"
+    },
+    "Dicrurus": {
+        "sp": "黑卷尾",
+        "ssp": "",
+        "en": "黑卷尾"
+    },
+    "Rhipidura": {
+        "sp": "白喉扇尾鹟",
+        "ssp": "白喉扇尾鹟指名亚种",
+        "en": "白喉扇尾鹟"
+    },
+    "Hypothymis": {
+        "sp": "黑枕王鹟",
+        "ssp": "黑枕王鹟史氏亚种",
+        "en": "黑枕王鹟"
+    },
+    "Terpsiphone": {
+        "sp": "日本寿带鸟",
+        "ssp": "",
+        "en": "日本寿带鸟"
+    },
+    "Perisoreus": {
+        "sp": "四川松鸦",
+        "ssp": "",
+        "en": "四川松鸦"
+    },
+    "Garrulus": {
+        "sp": "欧亚松鸦",
+        "ssp": "",
+        "en": "欧亚松鸦"
+    },
+    "Cyanopica": {
+        "sp": "蓝鹊",
+        "ssp": "",
+        "en": "蓝鹊"
+    },
+    "Urocissa": {
+        "sp": "红嘴蓝鹊",
+        "ssp": "",
+        "en": "红嘴蓝鹊"
+    },
+    "Cissa": {
+        "sp": "越南绿鹊",
+        "ssp": "",
+        "en": "越南绿鹊"
+    },
+    "Dendrocitta": {
+        "sp": "灰树鹊",
+        "ssp": "灰树鹊海南亚种",
+        "en": "灰树鹊"
+    },
+    "Temnurus": {
+        "sp": "噪鹃树鹊",
+        "ssp": "",
+        "en": "噪鹃树鹊"
+    },
+    "Pica": {
+        "sp": "喜鹊",
+        "ssp": "",
+        "en": "喜鹊"
+    },
+    "Podoces": {
+        "sp": "比杜尔菲地鸦",
+        "ssp": "",
+        "en": "比杜尔菲地鸦"
+    },
+    "Nucifraga": {
+        "sp": "星鸦",
+        "ssp": "星鸦斑点亚种",
+        "en": "星鸦"
+    },
+    "Pyrrhocorax": {
+        "sp": "红嘴山鸦",
+        "ssp": "红嘴山鸦福氏亚种",
+        "en": "红嘴山鸦"
+    },
+    "Coloeus": {
+        "sp": "达乌里寒鸦",
+        "ssp": "",
+        "en": "达乌里寒鸦"
+    },
+    "Corvus": {
+        "sp": "普通渡鸦",
+        "ssp": "普通渡鸦指名亚种?",
+        "en": "普通渡鸦"
+    },
+    "Bombycilla": {
+        "sp": "日本太平鸟",
+        "ssp": "",
+        "en": "日本太平鸟"
+    },
+    "Chelidorhynx": {
+        "sp": "黄腹扇尾鹟",
+        "ssp": "",
+        "en": "黄腹扇尾鹟"
+    },
+    "Culicicapa": {
+        "sp": "灰头鸦雀",
+        "ssp": "灰头鸦雀显色亚种",
+        "en": "灰头鸦雀"
+    },
+    "Cephalopyrus": {
+        "sp": "火冠山雀",
+        "ssp": "火冠山雀橄榄亚种",
+        "en": "火冠山雀"
+    },
+    "Sylviparus": {
+        "sp": "黄眉林雀",
+        "ssp": "",
+        "en": "黄眉林雀"
+    },
+    "Melanochlora": {
+        "sp": "苏丹山雀",
+        "ssp": "苏丹山雀黄冠亚种",
+        "en": "苏丹山雀"
+    },
+    "Periparus": {
+        "sp": "煤山雀",
+        "ssp": "煤山雀西藏亚种",
+        "en": "煤山雀"
+    },
+    "Pardaliparus": {
+        "sp": "黄腹山雀",
+        "ssp": "",
+        "en": "黄腹山雀"
+    },
+    "Lophophanes": {
+        "sp": "灰头山雀",
+        "ssp": "灰头山雀指名亚种?",
+        "en": "灰头山雀"
+    },
+    "Sittiparus": {
+        "sp": "杂色山雀",
+        "ssp": "杂色山雀指名亚种",
+        "en": "杂色山雀"
+    },
+    "Poecile": {
+        "sp": "沼泽山雀",
+        "ssp": "沼泽山雀新疆亚种?",
+        "en": "沼泽山雀"
+    },
+    "Pseudopodoces": {
+        "sp": "地山雀",
+        "ssp": "",
+        "en": "地山雀"
+    },
+    "Parus": {
+        "sp": "绿背山雀",
+        "ssp": "",
+        "en": "绿背山雀"
+    },
+    "Machlolophus": {
+        "sp": "黄颊山雀",
+        "ssp": "黄颊山雀帝汶亚种",
+        "en": "黄颊山雀"
+    },
+    "Remiz": {
+        "sp": "中华攀雀",
+        "ssp": "",
+        "en": "中华攀雀"
+    },
+    "Panurus": {
+        "sp": "文须雀",
+        "ssp": "",
+        "en": "文须雀"
+    },
+    "Alauda": {
+        "sp": "云雀",
+        "ssp": "",
+        "en": "云雀"
+    },
+    "Galerida": {
+        "sp": "凤头百灵",
+        "ssp": "",
+        "en": "凤头百灵"
+    },
+    "Eremophila": {
+        "sp": "角百灵",
+        "ssp": "",
+        "en": "角百灵"
+    },
+    "Calandrella": {
+        "sp": "蒙古短趾百灵",
+        "ssp": "",
+        "en": "蒙古短趾百灵"
+    },
+    "Melanocorypha": {
+        "sp": "西藏百灵",
+        "ssp": "",
+        "en": "西藏百灵"
+    },
+    "Alaudala": {
+        "sp": "亚洲短趾百灵",
+        "ssp": "亚洲短趾百灵库库诺尔亚种",
+        "en": "亚洲短趾百灵"
+    },
+    "Alophoixus": {
+        "sp": "棕喉山鹧鸪",
+        "ssp": "棕喉山鹧鸪指名亚种",
+        "en": "棕喉山鹧鸪"
+    },
+    "Alcurus": {
+        "sp": "条纹鹎",
+        "ssp": "",
+        "en": "条纹鹎"
+    },
+    "Iole": {
+        "sp": "灰眼鹎",
+        "ssp": "",
+        "en": "灰眼鹎"
+    },
+    "Hemixos": {
+        "sp": "栗背鹎",
+        "ssp": "栗背鹎灰翅亚种",
+        "en": "栗背鹎"
+    },
+    "Ixos": {
+        "sp": "山鹎",
+        "ssp": "山鹎相似亚种",
+        "en": "山鹎"
+    },
+    "Hypsipetes": {
+        "sp": "黑喉鹎",
+        "ssp": "",
+        "en": "黑喉鹎"
+    },
+    "Brachypodius": {
+        "sp": "黑头鹎",
+        "ssp": "",
+        "en": "黑头鹎"
+    },
+    "Rubigula": {
+        "sp": "黑冠鹎",
+        "ssp": "黑冠鹎范氏亚种",
+        "en": "黑冠鹎"
+    },
+    "Spizixos": {
+        "sp": "领雀嘴鹎",
+        "ssp": "领雀嘴鹎指名亚种",
+        "en": "领雀嘴鹎"
+    }
+}
